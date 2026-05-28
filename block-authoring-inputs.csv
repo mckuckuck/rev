@@ -1,0 +1,181 @@
+Template,Block Name,Field Name,Field Type,Required,Description
+Homepage,Hero,Background Image (Desktop),Image,Yes,Full-width hero background image for desktop viewport
+Homepage,Hero,Background Image (Mobile),Image,No,Alternate hero image optimized for mobile viewport
+Homepage,Hero,Headline,Text,Yes,Primary hero headline text
+Homepage,Hero,Subheadline,Text,No,Supporting tagline or secondary message
+Homepage,Hero,CTA Label,Text,Yes,Call-to-action button text
+Homepage,Hero,CTA Link,Link,Yes,URL destination for the CTA button
+Homepage,Hero,Video URL,Link,No,Optional embedded video URL (YouTube/Vimeo)
+Homepage,Product Carousel,Section Title,Text,Yes,Carousel heading (e.g. Best Sellers or New Arrivals)
+Homepage,Product Carousel,Product Reference,Product Link,Yes,Link to product page (repeatable - one per product in carousel)
+Homepage,Product Carousel,Product Image,Image,Yes,Product thumbnail image (one per product)
+Homepage,Product Carousel,Product Name,Text,Yes,Display name for the product card
+Homepage,Product Carousel,Price,Text,No,Product price display
+Homepage,Product Carousel,Badge,Text,No,Optional badge label (Best Seller / New / Sale / Viral)
+Homepage,Product Carousel,Shade Count,Text,No,Number of available shades (e.g. 45 Shades)
+Homepage,Category Tiles,Tile Image,Image,Yes,Visual image for the category tile (repeatable)
+Homepage,Category Tiles,Tile Label,Text,Yes,Category name displayed on the tile
+Homepage,Category Tiles,Tile Link,Link,Yes,URL destination for the category
+Homepage,CTA Banner,Banner Image (Desktop),Image,Yes,Full-width promotional banner image
+Homepage,CTA Banner,Banner Image (Mobile),Image,No,Mobile-optimized banner image
+Homepage,CTA Banner,Headline,Text,No,Promotional headline text overlay
+Homepage,CTA Banner,CTA Label,Text,Yes,Button text for the banner CTA
+Homepage,CTA Banner,CTA Link,Link,Yes,URL destination for the banner CTA
+Homepage,Newsletter Signup,Heading,Text,Yes,Section heading (e.g. Join Our Mailing List)
+Homepage,Newsletter Signup,Description,Text,No,Incentive or supporting text for signup
+Homepage,Newsletter Signup,Button Label,Text,Yes,Submit button text
+Homepage,Video Embed,Video URL,Link,Yes,YouTube or Vimeo embed URL
+Homepage,Video Embed,Poster Image,Image,No,Thumbnail image shown before video plays
+Homepage,Video Embed,Caption,Text,No,Optional text caption below video
+Product Detail,Product Gallery,Product Image,Image,Yes,Primary product image (repeatable - supports multiple images)
+Product Detail,Product Gallery,Alt Text,Text,Yes,Accessible alt text for each image
+Product Detail,Product Gallery,Lifestyle Image,Image,No,Optional lifestyle/model photography showing product in use
+Product Detail,Product Info,Product Title,Text,Yes,Full product name
+Product Detail,Product Info,Subtitle/Tagline,Text,No,Short marketing tagline (e.g. Better skin by the day)
+Product Detail,Product Info,Price,Text,Yes,Product price
+Product Detail,Product Info,Description,Rich Text,Yes,Product description with key benefits and claims
+Product Detail,Product Info,Key Benefits,Rich Text,No,Bulleted list of product benefits/features
+Product Detail,Product Info,Badge,Text,No,Product badge (Best Seller / New / Award Winner)
+Product Detail,Product Info,Size/Volume,Text,No,Product size options (e.g. 100ml / 200ml / 300ml)
+Product Detail,Product Info,SKU,Text,No,Product SKU or reference number
+Product Detail,Shade Selector,Shade Name,Text,Yes,Display name for each shade option (repeatable)
+Product Detail,Shade Selector,Shade Number,Text,No,Numeric shade code
+Product Detail,Shade Selector,Shade Swatch Image,Image,Yes,Color swatch image for each shade
+Product Detail,Shade Selector,Shade Product Image,Image,No,Product image variant for each shade
+Product Detail,Add to Cart,Button Label,Text,Yes,Add to cart button text
+Product Detail,Add to Cart,Quantity Default,Number,No,Default quantity value
+Product Detail,Add to Cart,Retailer Links,Link,No,External retailer purchase links (repeatable)
+Product Detail,Virtual Try-On,Enable Try-On,Boolean,Yes,Toggle to enable/disable virtual try-on feature
+Product Detail,Virtual Try-On,Try-On Button Label,Text,No,Button text (e.g. Try It Now)
+Product Detail,Product Tabs,Details Content,Rich Text,Yes,Detailed product information text
+Product Detail,Product Tabs,Ingredients Content,Rich Text,No,Full ingredient listing
+Product Detail,Product Tabs,How to Use Content,Rich Text,No,Application instructions and directions
+Product Detail,Customer Reviews,Enable Reviews,Boolean,Yes,Toggle to show/hide reviews section
+Product Detail,Customer Reviews,Review Source,Text,No,Third-party review integration identifier
+Product Detail,Related Products,Section Title,Text,No,Heading text (e.g. You May Also Like)
+Product Detail,Related Products,Product Reference,Product Link,Yes,Link to related product (repeatable - 4-6 products)
+Product Detail,Related Products,Product Image,Image,Yes,Thumbnail for each related product
+Product Detail,Related Products,Product Name,Text,Yes,Name for each related product card
+Product Detail,Related Products,Price,Text,No,Price for each related product
+Product Collection,Category Hero,Banner Image (Desktop),Image,No,Hero banner image for the collection page
+Product Collection,Category Hero,Banner Image (Mobile),Image,No,Mobile-optimized banner image
+Product Collection,Category Hero,Title,Text,Yes,Collection page title
+Product Collection,Category Hero,Description,Rich Text,No,Introductory text describing the collection
+Product Collection,Filter Sidebar,Filter Group Name,Text,Yes,Filter category label (repeatable - e.g. Shade Family or Finish)
+Product Collection,Filter Sidebar,Filter Options,Text,Yes,Available filter values within each group (repeatable)
+Product Collection,Product Grid,Product Reference,Product Link,Yes,Link to each product in the grid (repeatable)
+Product Collection,Product Grid,Product Image,Image,Yes,Product thumbnail image
+Product Collection,Product Grid,Product Name,Text,Yes,Product display name
+Product Collection,Product Grid,Price,Text,No,Product price
+Product Collection,Product Grid,Shade Count,Text,No,Number of available shades
+Product Collection,Product Grid,Badge,Text,No,Product badge label
+Product Collection,FAQ Accordion,Question,Text,Yes,FAQ question text (repeatable)
+Product Collection,FAQ Accordion,Answer,Rich Text,Yes,FAQ answer content (supports links and formatting)
+Product Line Landing,Line Hero,Banner Image (Desktop),Image,Yes,Hero banner introducing the product line
+Product Line Landing,Line Hero,Banner Image (Mobile),Image,No,Mobile-optimized hero banner
+Product Line Landing,Line Hero,Line Name,Text,Yes,Product line name (e.g. Coconut & Shea Oils)
+Product Line Landing,Line Hero,Tagline,Text,No,Product line tagline or positioning statement
+Product Line Landing,Product Card Grid,Product Image,Image,Yes,Product image for each card (repeatable)
+Product Line Landing,Product Card Grid,Product Name,Text,Yes,Product name
+Product Line Landing,Product Card Grid,Short Description,Text,No,Benefit-focused description text
+Product Line Landing,Product Card Grid,CTA Label,Text,Yes,Link text (e.g. Learn More)
+Product Line Landing,Product Card Grid,CTA Link,Link,Yes,URL to product detail page
+Blog Listing,Blog Hero,Featured Image,Image,No,Hero banner or featured article image
+Blog Listing,Blog Hero,Title,Text,Yes,Blog section title or featured headline
+Blog Listing,Article Card Grid,Article Thumbnail,Image,Yes,Article preview image (repeatable per article)
+Blog Listing,Article Card Grid,Article Title,Text,Yes,Article headline
+Blog Listing,Article Card Grid,Excerpt,Text,No,Short preview text or summary
+Blog Listing,Article Card Grid,Article Link,Link,Yes,URL to full article
+Blog Listing,Article Card Grid,Category Tag,Text,No,Article category label
+Blog Article,Article Hero,Featured Image,Image,Yes,Main article hero/header image
+Blog Article,Article Hero,Title,Text,Yes,Article headline
+Blog Article,Article Hero,Publication Date,Date,No,Article publish date
+Blog Article,Article Hero,Author,Text,No,Author name
+Blog Article,Social Share,Facebook Share,Boolean,No,Enable Facebook share button
+Blog Article,Social Share,Twitter Share,Boolean,No,Enable Twitter share button
+Blog Article,Social Share,Pinterest Share,Boolean,No,Enable Pinterest share button
+Blog Article,Related Posts,Related Article Image,Image,Yes,Thumbnail for each related article (repeatable)
+Blog Article,Related Posts,Related Article Title,Text,Yes,Title of related article
+Blog Article,Related Posts,Related Article Link,Link,Yes,URL to the related article
+Blog Article,Product Callout,Product Image,Image,Yes,Product image within article content
+Blog Article,Product Callout,Product Name,Text,Yes,Product name as displayed inline
+Blog Article,Product Callout,Product Link,Link,Yes,URL to the product page
+Blog Article,Product Callout,Short Description,Text,No,Brief product pitch or context text
+Legal/Policy,Privacy Form,Form Title,Text,Yes,Form heading (e.g. Exercise Your Privacy Rights)
+Legal/Policy,Privacy Form,Form Description,Text,No,Instructional text above the form
+Legal/Policy,Privacy Form,Submit Button Label,Text,Yes,Form submission button text
+Legal/Policy,Privacy Form,Form Fields,Text,Yes,Field labels for the DSAR form (name / email / request type)
+Contact,Contact Form,Form Title,Text,Yes,Contact page heading
+Contact,Contact Form,Form Description,Text,No,Introductory text above the form
+Contact,Contact Form,Field Labels,Text,Yes,Labels for form fields (Name / Email / Subject / Message)
+Contact,Contact Form,Submit Button Label,Text,Yes,Submit button text
+Contact,Contact Form,Success Message,Text,No,Confirmation message shown after submission
+About,Timeline/History,Milestone Year,Text,Yes,Year for each timeline entry (repeatable)
+About,Timeline/History,Milestone Title,Text,Yes,Title or event name for each milestone
+About,Timeline/History,Milestone Description,Text,No,Description text for each milestone
+About,Timeline/History,Milestone Image,Image,No,Optional image for each milestone entry
+Gallery,Image Gallery,Gallery Image,Image,Yes,Image for the gallery grid (repeatable)
+Gallery,Image Gallery,Image Caption,Text,No,Optional caption or description text
+Gallery,Image Gallery,Image Link,Link,No,Optional link destination when image is clicked
+Gallery,Image Gallery,Product Tag,Text,No,Associated product name for the image
+Gallery,Gallery Filter,Filter Category Name,Text,Yes,Filter group name (repeatable - e.g. Style or Product Line)
+Gallery,Gallery Filter,Filter Options,Text,Yes,Available filter values within each category
+Where to Buy,Retailer Grid,Retailer Logo,Image,Yes,Logo image for each retailer (repeatable)
+Where to Buy,Retailer Grid,Retailer Name,Text,Yes,Retailer display name
+Where to Buy,Retailer Grid,Retailer Link,Link,No,URL to retailer product page or store locator
+Where to Buy,Retailer Grid,Availability Type,Text,No,Category designation (Primary / Secondary / Also Available)
+Where to Buy,Store Locator,Retailer List,Text,Yes,Dropdown list of available retailers for location search
+Where to Buy,Store Locator,Search Label,Text,No,Instructional text (e.g. Choose a retailer below)
+Where to Buy,Store Locator,Button Label,Text,Yes,Find store button text
+Landing/Promo,Campaign Hero,Hero Image (Desktop),Image,Yes,Full-width campaign hero image
+Landing/Promo,Campaign Hero,Hero Image (Mobile),Image,No,Mobile-optimized hero image
+Landing/Promo,Campaign Hero,Headline,Text,No,Campaign headline overlay
+Landing/Promo,Campaign Hero,Subheadline,Text,No,Supporting tagline text
+Landing/Promo,Campaign Hero,CTA Label,Text,No,Optional CTA button text
+Landing/Promo,Campaign Hero,CTA Link,Link,No,CTA destination URL
+Landing/Promo,Featured Products,Section Title,Text,Yes,Section heading (e.g. Megan's Set List)
+Landing/Promo,Featured Products,Product Image,Image,Yes,Product image (repeatable)
+Landing/Promo,Featured Products,Product Name,Text,Yes,Product display name
+Landing/Promo,Featured Products,Product Description,Text,No,Short description or shade info
+Landing/Promo,Featured Products,Price,Text,No,Product price
+Landing/Promo,Featured Products,Product Link,Link,Yes,URL to product page
+Landing/Promo,Featured Products,Badge,Text,No,Product badge (New / Sale)
+Landing/Promo,Pull Quote,Quote Text,Text,Yes,Quotation text from ambassador or campaign
+Landing/Promo,Pull Quote,Attribution,Text,No,Name or source of the quote
+Landing/Promo,Pull Quote,Background Image,Image,No,Optional background image for quote section
+Landing/Promo,Video Section,Video URL,Link,Yes,YouTube or Vimeo embed URL
+Landing/Promo,Video Section,Poster Image,Image,No,Video thumbnail image
+Landing/Promo,Video Section,Caption,Text,No,Supporting text below video
+Landing/Promo,Email Capture,Heading,Text,Yes,Section heading for signup
+Landing/Promo,Email Capture,Description,Text,No,Incentive text for the campaign signup
+Landing/Promo,Email Capture,Button Label,Text,Yes,Submit button text
+Landing/Promo,Email Capture,Legal Disclaimer,Text,No,Terms and conditions text
+Product Tag/Filter,Product Grid,Product Image,Image,Yes,Product thumbnail (repeatable per product matching tag)
+Product Tag/Filter,Product Grid,Product Name,Text,Yes,Product display name
+Product Tag/Filter,Product Grid,Product Link,Link,Yes,URL to product detail page
+Retailer Detail,Retailer Hero,Retailer Logo,Image,Yes,Large retailer logo/brand image
+Retailer Detail,Retailer Hero,Retailer Name,Text,Yes,Retailer display name
+Retailer Detail,Retailer Hero,Description,Text,No,Partnership or availability description text
+Retailer Detail,Product Availability,Product Image,Image,Yes,Product image (repeatable)
+Retailer Detail,Product Availability,Product Name,Text,Yes,Product name
+Retailer Detail,Product Availability,Product Link,Link,No,Link to product on retailer site
+Monthly Specials,Promo Content,Featured Image,Image,No,Promotional product or campaign image
+Monthly Specials,Promo Content,Headline,Text,Yes,Monthly special headline
+Monthly Specials,Promo Content,Body Text,Rich Text,No,Promotional details and offer description
+Monthly Specials,Promo Content,CTA Label,Text,No,Optional CTA button text
+Monthly Specials,Promo Content,CTA Link,Link,No,CTA destination URL
+Monthly Specials,Promo Content,Product References,Product Link,No,Links to featured products (repeatable)
+Quiz/Interactive,Quiz Container,Quiz Title,Text,Yes,Quiz heading displayed at top
+Quiz/Interactive,Quiz Container,Introduction Text,Text,No,Introductory paragraph explaining the quiz
+Quiz/Interactive,Quiz Container,Question Text,Text,Yes,Question text for each step (repeatable)
+Quiz/Interactive,Quiz Container,Answer Option Label,Text,Yes,Text for each answer choice (repeatable per question)
+Quiz/Interactive,Quiz Container,Answer Option Image,Image,No,Optional image for each answer choice
+Quiz/Interactive,Quiz Container,Result Category Name,Text,Yes,Name for each result profile (repeatable)
+Quiz/Interactive,Quiz Container,Result Description,Text,Yes,Description text for each result
+Quiz/Interactive,Product Results,Result Product Image,Image,Yes,Product image for recommendation (repeatable per result)
+Quiz/Interactive,Product Results,Result Product Name,Text,Yes,Recommended product name
+Quiz/Interactive,Product Results,Result Product Link,Link,Yes,URL to recommended product
+Quiz/Interactive,Product Results,Result Product Price,Text,No,Price of recommended product
+FAQ,FAQ Accordion,Question,Text,Yes,FAQ question text (repeatable)
+FAQ,FAQ Accordion,Answer,Rich Text,Yes,FAQ answer with optional links and formatting
+FAQ,FAQ Accordion,Category/Section Label,Text,No,Optional grouping label for FAQ sections
