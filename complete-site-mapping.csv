@@ -1,0 +1,329 @@
+URL,Brand,Template,Block Name,Block Position,Authoring Inputs
+https://lottabody.com/,Lottabody,Homepage,Hero (Video),1,Video URL (YouTube) | Background Image (fallback)
+https://lottabody.com/,Lottabody,Homepage,Product Line Cards,2,Product Line Image | Line Name | Line Link (x2: Milk & Honey and Coconut & Shea Oils)
+https://lottabody.com/,Lottabody,Homepage,CTA Banner,3,Banner Image | CTA Label | CTA Link
+https://lottabody.com/,Lottabody,Homepage,Newsletter Signup,4,Heading | Description | Button Label
+https://lottabody.com/alotta-gallery/,Lottabody,Gallery,Gallery CTA,1,Instructional text (e.g. Click on images to learn more)
+https://lottabody.com/alotta-gallery/,Lottabody,Gallery,Image Gallery,2,Gallery Image (repeatable) | Image Caption | Click Action Link
+https://lottabody.com/alotta-gallery/alotta-strength/,Lottabody,Gallery,Gallery CTA,1,Instructional text
+https://lottabody.com/alotta-gallery/alotta-strength/,Lottabody,Gallery,Image Gallery,2,Gallery Image (repeatable) | Image Caption | Click Action Link
+https://lottabody.com/category/product/,Lottabody,Product Collection,Category Header,1,Category Title
+https://lottabody.com/category/product/,Lottabody,Product Collection,Product Grid,2,Product Image | Product Name | Product Link (repeatable)
+https://lottabody.com/category/study-material/,Lottabody,Blog Listing,Blog Header,1,Section Title
+https://lottabody.com/category/study-material/,Lottabody,Blog Listing,Article Card Grid,2,Article Thumbnail | Article Title | Excerpt | Article Link (repeatable)
+https://lottabody.com/coconut-and-shea-oils/,Lottabody,Product Line Landing,Hero (Product Line),1,Banner Image | Line Name (Coconut & Shea Oils) | Collection Image
+https://lottabody.com/coconut-and-shea-oils/,Lottabody,Product Line Landing,Product Card Grid,2,Product Image | Product Name | Subtitle | CTA Label | CTA Link (repeatable x7)
+https://lottabody.com/coconut-and-shea-oils/24hr-edge-gel/,Lottabody,Product Detail,Product Image,1,Product Image | Alt Text
+https://lottabody.com/coconut-and-shea-oils/24hr-edge-gel/,Lottabody,Product Detail,Product Info,2,Product Title | Short Description | Key Features
+https://lottabody.com/coconut-and-shea-oils/5-n-1/,Lottabody,Product Detail,Product Image,1,Product Image | Alt Text
+https://lottabody.com/coconut-and-shea-oils/5-n-1/,Lottabody,Product Detail,Product Info,2,Product Title | Short Description | Key Features
+https://lottabody.com/coconut-and-shea-oils/cleanse-me/,Lottabody,Product Detail,Product Image,1,Product Image | Alt Text
+https://lottabody.com/coconut-and-shea-oils/cleanse-me/,Lottabody,Product Detail,Product Info,2,Product Title | Short Description | Key Features
+https://lottabody.com/coconut-and-shea-oils/control-me-edge-gel/,Lottabody,Product Detail,Product Image,1,Product Image | Alt Text
+https://lottabody.com/coconut-and-shea-oils/control-me-edge-gel/,Lottabody,Product Detail,Product Info,2,Product Title | Short Description | Key Features
+https://lottabody.com/coconut-and-shea-oils/curl-and-style-milk/,Lottabody,Product Detail,Product Image,1,Product Image | Alt Text
+https://lottabody.com/coconut-and-shea-oils/curl-and-style-milk/,Lottabody,Product Detail,Product Info,2,Product Title | Short Description | Key Features
+https://lottabody.com/coconut-and-shea-oils/custard-gelee/,Lottabody,Product Detail,Product Image,1,Product Image | Alt Text
+https://lottabody.com/coconut-and-shea-oils/custard-gelee/,Lottabody,Product Detail,Product Info,2,Product Title | Short Description | Key Features
+https://lottabody.com/coconut-and-shea-oils/edge-gel/,Lottabody,Product Detail,Product Image,1,Product Image | Alt Text
+https://lottabody.com/coconut-and-shea-oils/edge-gel/,Lottabody,Product Detail,Product Info,2,Product Title | Short Description | Key Features
+https://lottabody.com/coconut-and-shea-oils/foaming-mousse/,Lottabody,Product Detail,Product Image,1,Product Image | Alt Text
+https://lottabody.com/coconut-and-shea-oils/foaming-mousse/,Lottabody,Product Detail,Product Info,2,Product Title | Short Description | Key Features
+https://lottabody.com/coconut-and-shea-oils/fortify-me-product/,Lottabody,Product Detail,Product Image,1,Product Image | Alt Text
+https://lottabody.com/coconut-and-shea-oils/fortify-me-product/,Lottabody,Product Detail,Product Info,2,Product Title | Short Description | Key Features
+https://lottabody.com/coconut-and-shea-oils/hydrate-me/,Lottabody,Product Detail,Product Image,1,Product Image | Alt Text
+https://lottabody.com/coconut-and-shea-oils/hydrate-me/,Lottabody,Product Detail,Product Info,2,Product Title | Short Description | Key Features
+https://lottabody.com/coconut-and-shea-oils/hydrate-me-coconut-and-shea-oils/,Lottabody,Product Detail,Product Image,1,Product Image | Alt Text
+https://lottabody.com/coconut-and-shea-oils/hydrate-me-coconut-and-shea-oils/,Lottabody,Product Detail,Product Info,2,Product Title | Short Description | Key Features
+https://lottabody.com/coconut-and-shea-oils/illuminate-me-shine-mist/,Lottabody,Product Detail,Product Image,1,Product Image | Alt Text
+https://lottabody.com/coconut-and-shea-oils/illuminate-me-shine-mist/,Lottabody,Product Detail,Product Info,2,Product Title | Short Description | Key Features
+https://lottabody.com/coconut-and-shea-oils/love-me-5-n-1-leave-in-treatment/,Lottabody,Product Detail,Product Image,1,Product Image | Alt Text
+https://lottabody.com/coconut-and-shea-oils/love-me-5-n-1-leave-in-treatment/,Lottabody,Product Detail,Product Info,2,Product Title | Short Description | Key Features
+https://lottabody.com/coconut-and-shea-oils/moisturize-me-curl-and-style-milk/,Lottabody,Product Detail,Product Image,1,Product Image | Alt Text
+https://lottabody.com/coconut-and-shea-oils/moisturize-me-curl-and-style-milk/,Lottabody,Product Detail,Product Info,2,Product Title | Short Description | Key Features
+https://lottabody.com/coconut-and-shea-oils/sleek-me-blowout-lotion/,Lottabody,Product Detail,Product Image,1,Product Image | Alt Text
+https://lottabody.com/coconut-and-shea-oils/sleek-me-blowout-lotion/,Lottabody,Product Detail,Product Info,2,Product Title | Short Description | Key Features
+https://lottabody.com/coconut-and-shea-oils/style-me-texturizing-setting-lotion/,Lottabody,Product Detail,Product Image,1,Product Image | Alt Text
+https://lottabody.com/coconut-and-shea-oils/style-me-texturizing-setting-lotion/,Lottabody,Product Detail,Product Info,2,Product Title | Short Description | Key Features
+https://lottabody.com/coconut-and-shea-oils/texturizing-setting-lotion/,Lottabody,Product Detail,Product Image,1,Product Image | Alt Text
+https://lottabody.com/coconut-and-shea-oils/texturizing-setting-lotion/,Lottabody,Product Detail,Product Info,2,Product Title | Short Description | Key Features
+https://lottabody.com/coconut-and-shea-oils/twist-me-product/,Lottabody,Product Detail,Product Image,1,Product Image | Alt Text
+https://lottabody.com/coconut-and-shea-oils/twist-me-product/,Lottabody,Product Detail,Product Info,2,Product Title | Short Description | Key Features
+https://lottabody.com/coconut-and-shea-oils/wrap-me-foaming-mousse/,Lottabody,Product Detail,Product Image,1,Product Image | Alt Text
+https://lottabody.com/coconut-and-shea-oils/wrap-me-foaming-mousse/,Lottabody,Product Detail,Product Info,2,Product Title | Short Description | Key Features
+https://lottabody.com/contact/,Lottabody,Contact,Contact Form,1,Form Title | Form Description | Field Labels (Name / Email / Subject / Message) | Submit Button Label | Success Message
+https://lottabody.com/exercise-your-privacy-rights/,Lottabody,Legal/Policy,Privacy Form,1,Form Title | Form Description | Submit Button Label
+https://lottabody.com/lottabody-control-24hr-edge-gel/,Lottabody,Product Detail,Product Image,1,Product Image | Alt Text
+https://lottabody.com/lottabody-control-24hr-edge-gel/,Lottabody,Product Detail,Product Info,2,Product Title | Short Description | Key Features
+https://lottabody.com/lottaselfie-terms/,Lottabody,Legal/Policy,Text Content (default),1,Rich text (headings / paragraphs / lists)
+https://lottabody.com/milk-and-honey/,Lottabody,Product Line Landing,Hero (Product Line),1,Banner Image | Line Name (Milk & Honey) | Collection Image
+https://lottabody.com/milk-and-honey/,Lottabody,Product Line Landing,Product Card Grid,2,Product Image | Product Name | Subtitle | CTA Label | CTA Link (repeatable)
+https://lottabody.com/milk-and-honey/boost-me/,Lottabody,Product Detail,Product Image,1,Product Image | Alt Text
+https://lottabody.com/milk-and-honey/boost-me/,Lottabody,Product Detail,Product Info,2,Product Title | Short Description | Key Features
+https://lottabody.com/milk-and-honey/elongate-me/,Lottabody,Product Detail,Product Image,1,Product Image | Alt Text
+https://lottabody.com/milk-and-honey/elongate-me/,Lottabody,Product Detail,Product Info,2,Product Title | Short Description | Key Features
+https://lottabody.com/milk-and-honey/hold-me/,Lottabody,Product Detail,Product Image,1,Product Image | Alt Text
+https://lottabody.com/milk-and-honey/hold-me/,Lottabody,Product Detail,Product Info,2,Product Title | Short Description | Key Features
+https://lottabody.com/milk-and-honey/nourish-me/,Lottabody,Product Detail,Product Image,1,Product Image | Alt Text
+https://lottabody.com/milk-and-honey/nourish-me/,Lottabody,Product Detail,Product Info,2,Product Title | Short Description | Key Features
+https://lottabody.com/milk-and-honey/refine-me/,Lottabody,Product Detail,Product Image,1,Product Image | Alt Text
+https://lottabody.com/milk-and-honey/refine-me/,Lottabody,Product Detail,Product Info,2,Product Title | Short Description | Key Features
+https://lottabody.com/milk-and-honey/refine-me-curl-defining-mousse/,Lottabody,Product Detail,Product Image,1,Product Image | Alt Text
+https://lottabody.com/milk-and-honey/refine-me-curl-defining-mousse/,Lottabody,Product Detail,Product Info,2,Product Title | Short Description | Key Features
+https://lottabody.com/milk-and-honey/restore-me-conditioner/,Lottabody,Product Detail,Product Image,1,Product Image | Alt Text
+https://lottabody.com/milk-and-honey/restore-me-conditioner/,Lottabody,Product Detail,Product Info,2,Product Title | Short Description | Key Features
+https://lottabody.com/milk-and-honey/restore-me-shampoo/,Lottabody,Product Detail,Product Image,1,Product Image | Alt Text
+https://lottabody.com/milk-and-honey/restore-me-shampoo/,Lottabody,Product Detail,Product Info,2,Product Title | Short Description | Key Features
+https://lottabody.com/milk-and-honey/tame-me/,Lottabody,Product Detail,Product Image,1,Product Image | Alt Text
+https://lottabody.com/milk-and-honey/tame-me/,Lottabody,Product Detail,Product Info,2,Product Title | Short Description | Key Features
+https://lottabody.com/privacy/,Lottabody,Legal/Policy,Text Content (default),1,Rich text (headings / paragraphs / lists)
+https://lottabody.com/professionals/,Lottabody,Landing/Promo,Promo Hero,1,Background Image | Headline
+https://lottabody.com/professionals/,Lottabody,Landing/Promo,Promo Content,2,Body Text | CTA Label | CTA Link
+https://lottabody.com/study-material/deep-conditioning-natural-hair-shea-coconut/,Lottabody,Blog Article,Article Hero,1,Title | Featured Image
+https://lottabody.com/study-material/deep-conditioning-natural-hair-shea-coconut/,Lottabody,Blog Article,Product Education Cards,2,Product Image | Product Name | Benefits List | The Nos | Usage Instructions | Learn More Link (repeatable)
+https://lottabody.com/study-material/lottabody-activate-curl-activator/,Lottabody,Blog Article,Article Hero,1,Title | Featured Image
+https://lottabody.com/study-material/lottabody-activate-curl-activator/,Lottabody,Blog Article,Product Education Cards,2,Product Image | Product Name | Benefits List | The Nos | Usage Instructions | Learn More Link (repeatable)
+https://lottabody.com/study-material/lottabody-activate-curl-activator/activate-me/,Lottabody,Blog Article,Article Hero,1,Title | Featured Image
+https://lottabody.com/study-material/lottabody-activate-curl-activator/activate-me/,Lottabody,Blog Article,Product Education Cards,2,Product Image | Product Name | Benefits List | The Nos | Usage Instructions | Learn More Link (repeatable)
+https://lottabody.com/study-material/lottabody-control-edge-gel-black/,Lottabody,Blog Article,Article Hero,1,Title | Featured Image
+https://lottabody.com/study-material/lottabody-control-edge-gel-black/,Lottabody,Blog Article,Product Education Cards,2,Product Image | Product Name | Benefits List | The Nos | Usage Instructions | Learn More Link (repeatable)
+https://lottabody.com/study-material/lottabody-fortify-strengthening-leave-conditioner/,Lottabody,Blog Article,Article Hero,1,Title | Featured Image
+https://lottabody.com/study-material/lottabody-fortify-strengthening-leave-conditioner/,Lottabody,Blog Article,Product Education Cards,2,Product Image | Product Name | Benefits List | The Nos | Usage Instructions | Learn More Link (repeatable)
+https://lottabody.com/study-material/lottabody-hydrate-shampoo-conditioner/,Lottabody,Blog Article,Article Hero,1,Title | Featured Image
+https://lottabody.com/study-material/lottabody-hydrate-shampoo-conditioner/,Lottabody,Blog Article,Product Education Cards,2,Product Image | Product Name | Benefits List | The Nos | Usage Instructions | Learn More Link (repeatable)
+https://lottabody.com/study-material/lottabody-illuminate-me-shine-mist/,Lottabody,Blog Article,Article Hero,1,Title | Featured Image
+https://lottabody.com/study-material/lottabody-illuminate-me-shine-mist/,Lottabody,Blog Article,Product Education Cards,2,Product Image | Product Name | Benefits List | The Nos | Usage Instructions | Learn More Link (repeatable)
+https://lottabody.com/study-material/lottabody-milk-honey-natural-hair/,Lottabody,Blog Article,Article Hero,1,Title | Featured Image
+https://lottabody.com/study-material/lottabody-milk-honey-natural-hair/,Lottabody,Blog Article,Product Education Cards,2,Product Image | Product Name | Benefits List | The Nos | Usage Instructions | Learn More Link (repeatable)
+https://lottabody.com/study-material/lottabody-twist-curl-styling-pudding-coconut-shea-hair-shrinking-braids/,Lottabody,Blog Article,Article Hero,1,Title | Featured Image
+https://lottabody.com/study-material/lottabody-twist-curl-styling-pudding-coconut-shea-hair-shrinking-braids/,Lottabody,Blog Article,Product Education Cards,2,Product Image | Product Name | Benefits List | The Nos | Usage Instructions | Learn More Link (repeatable)
+https://lottabody.com/style-gallery/,Lottabody,Gallery,Gallery CTA,1,Instructional text (Click on images to learn more)
+https://lottabody.com/style-gallery/,Lottabody,Gallery,Image Gallery,2,Gallery Image (repeatable x19+) | Image Caption | Click Action Link
+https://lottabody.com/terms/,Lottabody,Legal/Policy,Text Content (default),1,Rich text (headings / paragraphs / lists)
+https://lottabody.com/thanks-for-registering/,Lottabody,Landing/Promo,Promo Content,1,Headline | Body Text
+https://lottabody.com/where-to-buy/,Lottabody,Where to Buy,Retailer Grid (Primary),1,Retailer Logo | Retailer Name | Retailer Link (x5: Sally Beauty / Walmart / Dollar General / Naturally Curly / Amazon)
+https://lottabody.com/where-to-buy/,Lottabody,Where to Buy,Retailer Grid (Secondary),2,Retailer Logo | Retailer Name (x3: Walgreens / Family Dollar / Freds)
+https://lottabody.com/where-to-buy/,Lottabody,Where to Buy,Availability Note,3,Text (Also available at beauty and barber supply stores nationwide)
+https://lottabody.com/where-to-buy/amazon/,Lottabody,Retailer Detail,Retailer Info,1,Retailer Logo | Retailer Name | Description
+https://lottabody.com/where-to-buy/amazon/,Lottabody,Retailer Detail,Product List,2,Product Image | Product Name | Product Link (repeatable)
+https://lottabody.com/where-to-buy/dollar-general/,Lottabody,Retailer Detail,Retailer Info,1,Retailer Logo | Retailer Name | Description
+https://lottabody.com/where-to-buy/dollar-general/,Lottabody,Retailer Detail,Product List,2,Product Image | Product Name | Product Link (repeatable)
+https://lottabody.com/where-to-buy/family-dollar/,Lottabody,Retailer Detail,Retailer Info,1,Retailer Logo | Retailer Name | Description
+https://lottabody.com/where-to-buy/family-dollar/,Lottabody,Retailer Detail,Product List,2,Product Image | Product Name | Product Link (repeatable)
+https://lottabody.com/where-to-buy/freds/,Lottabody,Retailer Detail,Retailer Info,1,Retailer Logo | Retailer Name | Description
+https://lottabody.com/where-to-buy/freds/,Lottabody,Retailer Detail,Product List,2,Product Image | Product Name | Product Link (repeatable)
+https://lottabody.com/where-to-buy/shop-naturally-curly/,Lottabody,Retailer Detail,Retailer Info,1,Retailer Logo | Retailer Name | Description
+https://lottabody.com/where-to-buy/shop-naturally-curly/,Lottabody,Retailer Detail,Product List,2,Product Image | Product Name | Product Link (repeatable)
+https://lottabody.com/where-to-buy/walgreens/,Lottabody,Retailer Detail,Retailer Info,1,Retailer Logo | Retailer Name | Description
+https://lottabody.com/where-to-buy/walgreens/,Lottabody,Retailer Detail,Product List,2,Product Image | Product Name | Product Link (repeatable)
+https://rouxbeauty.com/,Roux Beauty,Homepage,Hero (Carousel),1,Slide Image | Slide Link (repeatable — multiple promo banners)
+https://rouxbeauty.com/,Roux Beauty,Homepage,Newsletter Signup,2,Heading | Description | Button Label
+https://rouxbeauty.com/about-roux/,Roux Beauty,About,Brand Story (default content),1,Rich text (brand narrative / history)
+https://rouxbeauty.com/about-roux/roux-101-secrets/,Roux Beauty,About,Brand Story (default content),1,Rich text (brand secrets / tips)
+https://rouxbeauty.com/blog/,Roux Beauty,Blog Listing,Blog Header,1,Section Title
+https://rouxbeauty.com/blog/,Roux Beauty,Blog Listing,Article Card Grid,2,Article Thumbnail | Article Title | Excerpt | Article Link (repeatable)
+https://rouxbeauty.com/chocolate/,Roux Beauty,Landing/Promo,Promo Hero,1,Background Image | Headline
+https://rouxbeauty.com/chocolate/,Roux Beauty,Landing/Promo,Promo Content,2,Featured Image | Body Text | CTA Label | CTA Link
+https://rouxbeauty.com/contact-us/,Roux Beauty,Contact,Contact Form,1,Form Title | Form Description | Field Labels | Submit Button Label | Success Message
+https://rouxbeauty.com/exercise-your-privacy-rights/,Roux Beauty,Legal/Policy,Privacy Form,1,Form Title | Form Description | Submit Button Label
+https://rouxbeauty.com/free-samples/,Roux Beauty,Landing/Promo,Promo Hero,1,Background Image | Headline
+https://rouxbeauty.com/free-samples/,Roux Beauty,Landing/Promo,Promo Content,2,Featured Image | Body Text | CTA Label | CTA Link
+https://rouxbeauty.com/giving-thanks-to-you/,Roux Beauty,Landing/Promo,Promo Hero,1,Background Image | Headline
+https://rouxbeauty.com/giving-thanks-to-you/,Roux Beauty,Landing/Promo,Promo Content,2,Featured Image | Body Text | CTA Label | CTA Link
+https://rouxbeauty.com/grey-hair-dont-care/,Roux Beauty,Blog Article,Article Hero,1,Title | Featured Image
+https://rouxbeauty.com/grey-hair-dont-care/,Roux Beauty,Blog Article,Article Body (default content),2,Rich text (paragraphs / images / links)
+https://rouxbeauty.com/hair-care/,Roux Beauty,Product Collection,Category Header,1,Category Title
+https://rouxbeauty.com/hair-care/,Roux Beauty,Product Collection,Product Grid,2,Product Image | Product Name | Product Link (repeatable)
+https://rouxbeauty.com/hair-care/rejuvenating/,Roux Beauty,Product Collection,Category Header,1,Category Title
+https://rouxbeauty.com/hair-care/rejuvenating/,Roux Beauty,Product Collection,Product Grid,2,Product Image | Product Name | Product Link (repeatable)
+https://rouxbeauty.com/hair-care/rejuvenating/leave-in-treatments/,Roux Beauty,Product Collection,Category Header,1,Category Title
+https://rouxbeauty.com/hair-care/rejuvenating/leave-in-treatments/,Roux Beauty,Product Collection,Product Grid,2,Product Image | Product Name | Product Link (repeatable)
+https://rouxbeauty.com/hair-care/rejuvenating/leave-in-treatments/07-extra-volume/,Roux Beauty,Product Detail,Product Image,1,Product Image | Alt Text
+https://rouxbeauty.com/hair-care/rejuvenating/leave-in-treatments/07-extra-volume/,Roux Beauty,Product Detail,Product Info,2,Product Title | Price | Short Description | Key Features | The Nos
+https://rouxbeauty.com/hair-care/rejuvenating/leave-in-treatments/07-extra-volume/,Roux Beauty,Product Detail,Product Tabs,3,Details Content | Ingredients Content | How to Use Content
+https://rouxbeauty.com/hair-care/rejuvenating/leave-in-treatments/07-extra-volume/,Roux Beauty,Product Detail,Customer Reviews,4,Enable Reviews | Review Form Fields
+https://rouxbeauty.com/hair-care/rejuvenating/leave-in-treatments/233-extra-repair/,Roux Beauty,Product Detail,Product Image,1,Product Image | Alt Text
+https://rouxbeauty.com/hair-care/rejuvenating/leave-in-treatments/233-extra-repair/,Roux Beauty,Product Detail,Product Info,2,Product Title | Price | Short Description | Key Features | The Nos
+https://rouxbeauty.com/hair-care/rejuvenating/leave-in-treatments/233-extra-repair/,Roux Beauty,Product Detail,Product Tabs,3,Details Content | Ingredients Content | How to Use Content
+https://rouxbeauty.com/hair-care/rejuvenating/leave-in-treatments/233-extra-repair/,Roux Beauty,Product Detail,Customer Reviews,4,Enable Reviews | Review Form Fields
+https://rouxbeauty.com/hair-care/rejuvenating/leave-in-treatments/hair-and-scalp-rehab/,Roux Beauty,Product Detail,Product Image,1,Product Image | Alt Text
+https://rouxbeauty.com/hair-care/rejuvenating/leave-in-treatments/hair-and-scalp-rehab/,Roux Beauty,Product Detail,Product Info,2,Product Title | Price | Short Description | Key Features | The Nos
+https://rouxbeauty.com/hair-care/rejuvenating/leave-in-treatments/hair-and-scalp-rehab/,Roux Beauty,Product Detail,Product Tabs,3,Details Content | Ingredients Content | How to Use Content
+https://rouxbeauty.com/hair-care/rejuvenating/leave-in-treatments/hair-and-scalp-rehab/,Roux Beauty,Product Detail,Customer Reviews,4,Enable Reviews | Review Form Fields
+https://rouxbeauty.com/hair-care/rejuvenating/porosity-control/,Roux Beauty,Product Detail,Product Image,1,Product Image | Alt Text
+https://rouxbeauty.com/hair-care/rejuvenating/porosity-control/,Roux Beauty,Product Detail,Product Info,2,Product Title | Price | Short Description | Key Features | The Nos
+https://rouxbeauty.com/hair-care/rejuvenating/porosity-control/,Roux Beauty,Product Detail,Product Tabs,3,Details Content | Ingredients Content | How to Use Content
+https://rouxbeauty.com/hair-care/rejuvenating/porosity-control/,Roux Beauty,Product Detail,Customer Reviews,4,Enable Reviews | Review Form Fields
+https://rouxbeauty.com/hair-care/repair-and-shine/,Roux Beauty,Product Collection,Category Header,1,Category Title
+https://rouxbeauty.com/hair-care/repair-and-shine/,Roux Beauty,Product Collection,Product Grid,2,Product Image | Product Name | Product Link (repeatable)
+https://rouxbeauty.com/hair-care/weightless-oils/,Roux Beauty,Product Collection,Category Header,1,Category Title
+https://rouxbeauty.com/hair-care/weightless-oils/,Roux Beauty,Product Collection,Product Grid,2,Product Image | Product Name | Product Link (repeatable)
+https://rouxbeauty.com/hair-care/weightless-oils/luminous-shampoo/,Roux Beauty,Product Detail,Product Image,1,Product Image | Alt Text
+https://rouxbeauty.com/hair-care/weightless-oils/luminous-shampoo/,Roux Beauty,Product Detail,Product Info,2,Product Title | Price | Short Description | Key Features | The Nos
+https://rouxbeauty.com/hair-care/weightless-oils/luminous-shampoo/,Roux Beauty,Product Detail,Product Tabs,3,Details Content | Ingredients Content | How to Use Content
+https://rouxbeauty.com/hair-care/weightless-oils/luminous-shampoo/,Roux Beauty,Product Detail,Customer Reviews,4,Enable Reviews | Review Form Fields
+https://rouxbeauty.com/hair-care/weightless-oils/restorative-hair-masque/,Roux Beauty,Product Detail,Product Image,1,Product Image | Alt Text
+https://rouxbeauty.com/hair-care/weightless-oils/restorative-hair-masque/,Roux Beauty,Product Detail,Product Info,2,Product Title | Price | Short Description | Key Features | The Nos
+https://rouxbeauty.com/hair-care/weightless-oils/restorative-hair-masque/,Roux Beauty,Product Detail,Product Tabs,3,Details Content | Ingredients Content | How to Use Content
+https://rouxbeauty.com/hair-care/weightless-oils/restorative-hair-masque/,Roux Beauty,Product Detail,Customer Reviews,4,Enable Reviews | Review Form Fields
+https://rouxbeauty.com/hair-care/weightless-oils/softening-conditioner/,Roux Beauty,Product Detail,Product Image,1,Product Image | Alt Text
+https://rouxbeauty.com/hair-care/weightless-oils/softening-conditioner/,Roux Beauty,Product Detail,Product Info,2,Product Title | Price | Short Description | Key Features | The Nos
+https://rouxbeauty.com/hair-care/weightless-oils/softening-conditioner/,Roux Beauty,Product Detail,Product Tabs,3,Details Content | Ingredients Content | How to Use Content
+https://rouxbeauty.com/hair-care/weightless-oils/softening-conditioner/,Roux Beauty,Product Detail,Customer Reviews,4,Enable Reviews | Review Form Fields
+https://rouxbeauty.com/hair-color/,Roux Beauty,Product Collection,Category Header,1,Category Title
+https://rouxbeauty.com/hair-color/,Roux Beauty,Product Collection,Product Grid,2,Product Image | Product Name | Product Link (repeatable)
+https://rouxbeauty.com/hair-color/clean-touch-stain-remover/,Roux Beauty,Product Detail,Product Image,1,Product Image | Alt Text
+https://rouxbeauty.com/hair-color/clean-touch-stain-remover/,Roux Beauty,Product Detail,Product Info,2,Product Title | Price | Short Description | Key Features | The Nos
+https://rouxbeauty.com/hair-color/clean-touch-stain-remover/,Roux Beauty,Product Detail,Product Tabs,3,Details Content | Ingredients Content | How to Use Content
+https://rouxbeauty.com/hair-color/clean-touch-stain-remover/,Roux Beauty,Product Detail,Customer Reviews,4,Enable Reviews | Review Form Fields
+https://rouxbeauty.com/hair-color/fanci-full-rinse/,Roux Beauty,Product Detail,Product Image,1,Product Image | Alt Text
+https://rouxbeauty.com/hair-color/fanci-full-rinse/,Roux Beauty,Product Detail,Product Info,2,Product Title | Price | Short Description | Key Features | The Nos
+https://rouxbeauty.com/hair-color/fanci-full-rinse/,Roux Beauty,Product Detail,Product Tabs,3,Details Content | Ingredients Content | How to Use Content
+https://rouxbeauty.com/hair-color/fanci-full-rinse/,Roux Beauty,Product Detail,Customer Reviews,4,Enable Reviews | Review Form Fields
+https://rouxbeauty.com/hair-color/tween-time/,Roux Beauty,Product Detail,Product Image,1,Product Image | Alt Text
+https://rouxbeauty.com/hair-color/tween-time/,Roux Beauty,Product Detail,Product Info,2,Product Title | Price | Short Description | Key Features | The Nos
+https://rouxbeauty.com/hair-color/tween-time/,Roux Beauty,Product Detail,Product Tabs,3,Details Content | Ingredients Content | How to Use Content
+https://rouxbeauty.com/hair-color/tween-time/,Roux Beauty,Product Detail,Customer Reviews,4,Enable Reviews | Review Form Fields
+https://rouxbeauty.com/hair-coloring/,Roux Beauty,Product Collection,Category Header,1,Category Title
+https://rouxbeauty.com/hair-coloring/,Roux Beauty,Product Collection,Product Grid,2,Product Image | Product Name | Product Link (repeatable)
+https://rouxbeauty.com/indulge-your-hair-with-rouxs-new-weightless-precious-oils-collection/,Roux Beauty,Blog Article,Article Hero,1,Title | Featured Image
+https://rouxbeauty.com/indulge-your-hair-with-rouxs-new-weightless-precious-oils-collection/,Roux Beauty,Blog Article,Article Body (default content),2,Rich text (paragraphs / images / links)
+https://rouxbeauty.com/privacy/,Roux Beauty,Legal/Policy,Text Content (default),1,Rich text (headings / paragraphs / lists)
+https://rouxbeauty.com/roux-tween-time-issuing-challenge-show-us-roots-america/,Roux Beauty,Blog Article,Article Hero,1,Title | Featured Image
+https://rouxbeauty.com/roux-tween-time-issuing-challenge-show-us-roots-america/,Roux Beauty,Blog Article,Article Body (default content),2,Rich text (paragraphs / images / links)
+https://rouxbeauty.com/saves/,Roux Beauty,Landing/Promo,Promo Content,1,Headline | Body Text | CTA Label | CTA Link
+https://rouxbeauty.com/specials/april/,Roux Beauty,Monthly Specials,Promo Content,1,Featured Image | Headline | Body Text | CTA Label | CTA Link | Product References
+https://rouxbeauty.com/specials/august/,Roux Beauty,Monthly Specials,Promo Content,1,Featured Image | Headline | Body Text | CTA Label | CTA Link | Product References
+https://rouxbeauty.com/specials/december/,Roux Beauty,Monthly Specials,Promo Content,1,Featured Image | Headline | Body Text | CTA Label | CTA Link | Product References
+https://rouxbeauty.com/specials/february/,Roux Beauty,Monthly Specials,Promo Content,1,Featured Image | Headline | Body Text | CTA Label | CTA Link | Product References
+https://rouxbeauty.com/specials/january/,Roux Beauty,Monthly Specials,Promo Content,1,Featured Image | Headline | Body Text | CTA Label | CTA Link | Product References
+https://rouxbeauty.com/specials/july/,Roux Beauty,Monthly Specials,Promo Content,1,Featured Image | Headline | Body Text | CTA Label | CTA Link | Product References
+https://rouxbeauty.com/specials/june/,Roux Beauty,Monthly Specials,Promo Content,1,Featured Image | Headline | Body Text | CTA Label | CTA Link | Product References
+https://rouxbeauty.com/specials/march/,Roux Beauty,Monthly Specials,Promo Content,1,Featured Image | Headline | Body Text | CTA Label | CTA Link | Product References
+https://rouxbeauty.com/specials/may/,Roux Beauty,Monthly Specials,Promo Content,1,Featured Image | Headline | Body Text | CTA Label | CTA Link | Product References
+https://rouxbeauty.com/specials/november/,Roux Beauty,Monthly Specials,Promo Content,1,Featured Image | Headline | Body Text | CTA Label | CTA Link | Product References
+https://rouxbeauty.com/specials/october/,Roux Beauty,Monthly Specials,Promo Content,1,Featured Image | Headline | Body Text | CTA Label | CTA Link | Product References
+https://rouxbeauty.com/specials/september/,Roux Beauty,Monthly Specials,Promo Content,1,Featured Image | Headline | Body Text | CTA Label | CTA Link | Product References
+https://rouxbeauty.com/stores/,Roux Beauty,Where to Buy,Retailer Grid,1,Retailer Logo | Retailer Name | Retailer Link (repeatable)
+https://rouxbeauty.com/terms/,Roux Beauty,Legal/Policy,Text Content (default),1,Rich text (headings / paragraphs / lists)
+https://rouxbeauty.com/top-sellers/,Roux Beauty,Product Collection,Category Header,1,Category Title
+https://rouxbeauty.com/top-sellers/,Roux Beauty,Product Collection,Product Grid,2,Product Image | Product Name | Product Link (repeatable)
+https://rouxbeauty.com/weightless-precious-oils/,Roux Beauty,Product Line Landing,Hero (Product Line),1,Banner Image | Line Name (Weightless Precious Oils)
+https://rouxbeauty.com/weightless-precious-oils/,Roux Beauty,Product Line Landing,Product Card Grid,2,Product Image | Product Name | Subtitle | CTA Label | CTA Link (repeatable)
+https://www.cutex.com/,Cutex,Homepage,Hero,1,Background Image (Desktop/Mobile) | Headline | Description Text
+https://www.cutex.com/,Cutex,Homepage,CTA Banner,2,CTA Label | CTA Link (e.g. Available on Amazon)
+https://www.cutex.com/about-us/,Cutex,About,Brand Story (default content),1,Rich text (brand narrative)
+https://www.cutex.com/contact-us/,Cutex,Contact,Contact Form,1,Form Title | Form Description | Field Labels | Submit Button Label | Success Message
+https://www.cutex.com/cutex,Cutex,Landing/Promo,Promo Content,1,Headline | Body Text | CTA Label | CTA Link
+https://www.cutex.com/dsar/,Cutex,Legal/Policy,Privacy Form,1,Form Title | Form Description | Submit Button Label
+https://www.cutex.com/privacy-policy/,Cutex,Legal/Policy,Text Content (default),1,Rich text (headings / paragraphs / lists)
+https://www.cutex.com/product-tag/acetone/,Cutex,Product Tag/Filter,Tag Header,1,Tag Name (Acetone)
+https://www.cutex.com/product-tag/acetone/,Cutex,Product Tag/Filter,Product Grid,2,Product Image | Product Name | Product Link (repeatable)
+https://www.cutex.com/product-tag/cuticle-oil/,Cutex,Product Tag/Filter,Tag Header,1,Tag Name (Cuticle Oil)
+https://www.cutex.com/product-tag/cuticle-oil/,Cutex,Product Tag/Filter,Product Grid,2,Product Image | Product Name | Product Link (repeatable)
+https://www.cutex.com/product-tag/gel/,Cutex,Product Tag/Filter,Tag Header,1,Tag Name (Gel)
+https://www.cutex.com/product-tag/gel/,Cutex,Product Tag/Filter,Product Grid,2,Product Image | Product Name | Product Link (repeatable)
+https://www.cutex.com/product-tag/jelly/,Cutex,Product Tag/Filter,Tag Header,1,Tag Name (Jelly)
+https://www.cutex.com/product-tag/jelly/,Cutex,Product Tag/Filter,Product Grid,2,Product Image | Product Name | Product Link (repeatable)
+https://www.cutex.com/product-tag/liquid/,Cutex,Product Tag/Filter,Tag Header,1,Tag Name (Liquid)
+https://www.cutex.com/product-tag/liquid/,Cutex,Product Tag/Filter,Product Grid,2,Product Image | Product Name | Product Link (repeatable)
+https://www.cutex.com/product-tag/nail-polish-remover/,Cutex,Product Tag/Filter,Tag Header,1,Tag Name (Nail Polish Remover)
+https://www.cutex.com/product-tag/nail-polish-remover/,Cutex,Product Tag/Filter,Product Grid,2,Product Image | Product Name | Product Link (repeatable)
+https://www.cutex.com/product-tag/nail-treatment/,Cutex,Product Tag/Filter,Tag Header,1,Tag Name (Nail Treatment)
+https://www.cutex.com/product-tag/nail-treatment/,Cutex,Product Tag/Filter,Product Grid,2,Product Image | Product Name | Product Link (repeatable)
+https://www.cutex.com/product-tag/non-acetone/,Cutex,Product Tag/Filter,Tag Header,1,Tag Name (Non-Acetone)
+https://www.cutex.com/product-tag/non-acetone/,Cutex,Product Tag/Filter,Product Grid,2,Product Image | Product Name | Product Link (repeatable)
+https://www.cutex.com/product-tag/on-the-go/,Cutex,Product Tag/Filter,Tag Header,1,Tag Name (On-the-Go)
+https://www.cutex.com/product-tag/on-the-go/,Cutex,Product Tag/Filter,Product Grid,2,Product Image | Product Name | Product Link (repeatable)
+https://www.cutex.com/product-tag/pads/,Cutex,Product Tag/Filter,Tag Header,1,Tag Name (Pads)
+https://www.cutex.com/product-tag/pads/,Cutex,Product Tag/Filter,Product Grid,2,Product Image | Product Name | Product Link (repeatable)
+https://www.cutex.com/product-tag/recovery/,Cutex,Product Tag/Filter,Tag Header,1,Tag Name (Recovery)
+https://www.cutex.com/product-tag/recovery/,Cutex,Product Tag/Filter,Product Grid,2,Product Image | Product Name | Product Link (repeatable)
+https://www.cutex.com/product-tag/scented/,Cutex,Product Tag/Filter,Tag Header,1,Tag Name (Scented)
+https://www.cutex.com/product-tag/scented/,Cutex,Product Tag/Filter,Product Grid,2,Product Image | Product Name | Product Link (repeatable)
+https://www.cutex.com/product-tag/strengthener/,Cutex,Product Tag/Filter,Tag Header,1,Tag Name (Strengthener)
+https://www.cutex.com/product-tag/strengthener/,Cutex,Product Tag/Filter,Product Grid,2,Product Image | Product Name | Product Link (repeatable)
+https://www.cutex.com/product-tag/travel/,Cutex,Product Tag/Filter,Tag Header,1,Tag Name (Travel)
+https://www.cutex.com/product-tag/travel/,Cutex,Product Tag/Filter,Product Grid,2,Product Image | Product Name | Product Link (repeatable)
+https://www.cutex.com/product/all-in-one-strengthener/,Cutex,Product Detail,Product Image,1,Product Image | Alt Text
+https://www.cutex.com/product/all-in-one-strengthener/,Cutex,Product Detail,Product Info,2,Product Title | Short Description | Key Features | Size/Volume | SKU | Category | Tags
+https://www.cutex.com/product/hydrating-cuticle-oil/,Cutex,Product Detail,Product Image,1,Product Image | Alt Text
+https://www.cutex.com/product/hydrating-cuticle-oil/,Cutex,Product Detail,Product Info,2,Product Title | Short Description | Key Features | Size/Volume | SKU | Category | Tags
+https://www.cutex.com/product/intense-recovery/,Cutex,Product Detail,Product Image,1,Product Image | Alt Text
+https://www.cutex.com/product/intense-recovery/,Cutex,Product Detail,Product Info,2,Product Title | Short Description | Key Features | Size/Volume | SKU | Category | Tags
+https://www.cutex.com/product/moisture-rich/,Cutex,Product Detail,Product Image,1,Product Image | Alt Text
+https://www.cutex.com/product/moisture-rich/,Cutex,Product Detail,Product Info,2,Product Title | Short Description | Key Features | Size/Volume | SKU | Category | Tags
+https://www.cutex.com/product/non-acetone/,Cutex,Product Detail,Product Image,1,Product Image | Alt Text
+https://www.cutex.com/product/non-acetone/,Cutex,Product Detail,Product Info,2,Product Title | Short Description | Key Features | Size/Volume | SKU | Category | Tags
+https://www.cutex.com/product/nourishing/,Cutex,Product Detail,Product Image,1,Product Image | Alt Text
+https://www.cutex.com/product/nourishing/,Cutex,Product Detail,Product Info,2,Product Title | Short Description | Key Features | Size/Volume | SKU | Category | Tags
+https://www.cutex.com/product/polish-away-sponge-pads/,Cutex,Product Detail,Product Image,1,Product Image | Alt Text
+https://www.cutex.com/product/polish-away-sponge-pads/,Cutex,Product Detail,Product Info,2,Product Title | Short Description | Key Features | Size/Volume | SKU | Category | Tags
+https://www.cutex.com/product/spot-on-jelly/,Cutex,Product Detail,Product Image,1,Product Image | Alt Text
+https://www.cutex.com/product/spot-on-jelly/,Cutex,Product Detail,Product Info,2,Product Title | Short Description | Key Features | Size/Volume | SKU | Category | Tags
+https://www.cutex.com/product/strength-shield/,Cutex,Product Detail,Product Image,1,Product Image | Alt Text
+https://www.cutex.com/product/strength-shield/,Cutex,Product Detail,Product Info,2,Product Title | Short Description | Key Features | Size/Volume | SKU | Category | Tags
+https://www.cutex.com/product/swipe-go/,Cutex,Product Detail,Product Image,1,Product Image | Alt Text
+https://www.cutex.com/product/swipe-go/,Cutex,Product Detail,Product Info,2,Product Title | Short Description | Key Features | Size/Volume | SKU | Category | Tags
+https://www.cutex.com/product/swipe-go-non-acetone/,Cutex,Product Detail,Product Image,1,Product Image | Alt Text
+https://www.cutex.com/product/swipe-go-non-acetone/,Cutex,Product Detail,Product Info,2,Product Title | Short Description | Key Features | Size/Volume | SKU | Category | Tags
+https://www.cutex.com/product/twist-scrub-sponge/,Cutex,Product Detail,Product Image,1,Product Image | Alt Text
+https://www.cutex.com/product/twist-scrub-sponge/,Cutex,Product Detail,Product Info,2,Product Title | Short Description | Key Features | Size/Volume | SKU | Category | Tags
+https://www.cutex.com/product/ultra-caring/,Cutex,Product Detail,Product Image,1,Product Image | Alt Text
+https://www.cutex.com/product/ultra-caring/,Cutex,Product Detail,Product Info,2,Product Title | Short Description | Key Features | Size/Volume | SKU | Category | Tags
+https://www.cutex.com/product/ultra-powerful/,Cutex,Product Detail,Product Image,1,Product Image | Alt Text
+https://www.cutex.com/product/ultra-powerful/,Cutex,Product Detail,Product Info,2,Product Title | Short Description | Key Features | Size/Volume | SKU | Category | Tags
+https://www.cutex.com/product/ultra-powerful-tropical-breeze/,Cutex,Product Detail,Product Image,1,Product Image | Alt Text
+https://www.cutex.com/product/ultra-powerful-tropical-breeze/,Cutex,Product Detail,Product Info,2,Product Title | Short Description | Key Features | Size/Volume | SKU | Category | Tags
+https://www.cutex.com/shop/,Cutex,Product Collection,Category Header,1,Category Title | Product Count
+https://www.cutex.com/shop/,Cutex,Product Collection,Product Grid,2,Product Image | Product Name | Product Link (repeatable)
+https://www.cutex.com/store/products/,Cutex,Product Collection,Category Header,1,Category Title | Product Count
+https://www.cutex.com/store/products/,Cutex,Product Collection,Product Grid,2,Product Image | Product Name | Product Link (repeatable)
+https://www.cutex.com/store/products/acetone-removers/,Cutex,Product Collection,Category Header,1,Category Title (Acetone Removers) | Breadcrumb
+https://www.cutex.com/store/products/acetone-removers/,Cutex,Product Collection,Product Grid,2,Product Image | Product Name | Product Link (repeatable)
+https://www.cutex.com/store/products/nail-treatments/,Cutex,Product Collection,Category Header,1,Category Title (Nail Treatments) | Breadcrumb
+https://www.cutex.com/store/products/nail-treatments/,Cutex,Product Collection,Product Grid,2,Product Image | Product Name | Product Link (repeatable)
+https://www.cutex.com/store/products/non-acetone-removers/,Cutex,Product Collection,Category Header,1,Category Title (Non-Acetone Removers) | Breadcrumb
+https://www.cutex.com/store/products/non-acetone-removers/,Cutex,Product Collection,Product Grid,2,Product Image | Product Name | Product Link (repeatable)
+https://www.cutex.com/terms-of-use/,Cutex,Legal/Policy,Text Content (default),1,Rich text (headings / paragraphs / lists)
+https://www.sinfulcolors.com/,Sinful Colors,Homepage,Product Line Cards,1,Product Line Image | Line Name | Line Link (x4: Bold Color / Power Paint / Essenchills / Quick Bliss)
+https://www.sinfulcolors.com/about-us/,Sinful Colors,About,Brand Story (default content),1,Rich text (brand narrative / history / values)
+https://www.sinfulcolors.com/about-us/,Sinful Colors,About,Certifications Block,2,Certification Type | Description | Excluded Ingredients List
+https://www.sinfulcolors.com/contact-us/,Sinful Colors,Contact,Contact Form,1,Form Title | Form Description | Field Labels | Submit Button Label | Success Message
+https://www.sinfulcolors.com/dsar/,Sinful Colors,Legal/Policy,Privacy Form,1,Form Title | Form Description | Submit Button Label
+https://www.sinfulcolors.com/nail-polish/,Sinful Colors,Product Collection,Category Header,1,Category Title
+https://www.sinfulcolors.com/nail-polish/,Sinful Colors,Product Collection,Product Grid,2,Product Image | Product Name | Product Link (repeatable)
+https://www.sinfulcolors.com/nail-polish/bold-color/,Sinful Colors,Product Collection,Category Header,1,Category Title (Bold Color) | Results Count
+https://www.sinfulcolors.com/nail-polish/bold-color/,Sinful Colors,Product Collection,Product Grid,2,Product Image | Product Name | Product Link (repeatable — paginated with Load More)
+https://www.sinfulcolors.com/nail-polish/essenchills/,Sinful Colors,Product Collection,Category Header,1,Category Title (Essenchills) | Results Count
+https://www.sinfulcolors.com/nail-polish/essenchills/,Sinful Colors,Product Collection,Product Grid,2,Product Image | Product Name | Product Link (repeatable)
+https://www.sinfulcolors.com/nail-polish/nail-polish/,Sinful Colors,Product Collection,Category Header,1,Category Title | Results Count
+https://www.sinfulcolors.com/nail-polish/nail-polish/,Sinful Colors,Product Collection,Product Grid,2,Product Image | Product Name | Product Link (repeatable)
+https://www.sinfulcolors.com/nail-polish/power-paint/,Sinful Colors,Product Collection,Category Header,1,Category Title (Power Paint) | Results Count
+https://www.sinfulcolors.com/nail-polish/power-paint/,Sinful Colors,Product Collection,Product Grid,2,Product Image | Product Name | Product Link (repeatable)
+https://www.sinfulcolors.com/nail-polish/quick-bliss/,Sinful Colors,Product Collection,Category Header,1,Category Title (Quick Bliss) | Results Count
+https://www.sinfulcolors.com/nail-polish/quick-bliss/,Sinful Colors,Product Collection,Product Grid,2,Product Image | Product Name | Product Link (repeatable)
+https://www.sinfulcolors.com/privacy-policy/,Sinful Colors,Legal/Policy,Text Content (default),1,Rich text (headings / paragraphs / lists)
+https://www.sinfulcolors.com/product-tag/nail-polish/,Sinful Colors,Product Tag/Filter,Tag Header,1,Tag Name (Nail Polish)
+https://www.sinfulcolors.com/product-tag/nail-polish/,Sinful Colors,Product Tag/Filter,Product Grid,2,Product Image | Product Name | Product Link (repeatable)
+https://www.sinfulcolors.com/product-tag/power-paint/,Sinful Colors,Product Tag/Filter,Tag Header,1,Tag Name (Power Paint)
+https://www.sinfulcolors.com/product-tag/power-paint/,Sinful Colors,Product Tag/Filter,Product Grid,2,Product Image | Product Name | Product Link (repeatable)
+https://www.sinfulcolors.com/product-tag/quick-bliss/,Sinful Colors,Product Tag/Filter,Tag Header,1,Tag Name (Quick Bliss)
+https://www.sinfulcolors.com/product-tag/quick-bliss/,Sinful Colors,Product Tag/Filter,Product Grid,2,Product Image | Product Name | Product Link (repeatable)
+https://www.sinfulcolors.com/product/24k-drips/,Sinful Colors,Product Detail,Product Image,1,Product Image (2 angles) | Alt Text
+https://www.sinfulcolors.com/product/24k-drips/,Sinful Colors,Product Detail,Product Info,2,Product Title | Description | Key Features | Directions | SKU | Category Tags
+https://www.sinfulcolors.com/product/24k-drips/,Sinful Colors,Product Detail,Certifications Block,3,Cruelty-free | Vegan | Without 17 harmful ingredients
+https://www.sinfulcolors.com/product/aint-having-it/,Sinful Colors,Product Detail,Product Image,1,Product Image (2 angles) | Alt Text
+https://www.sinfulcolors.com/product/aint-having-it/,Sinful Colors,Product Detail,Product Info,2,Product Title | Description | Key Features | Directions | SKU | Category Tags
+https://www.sinfulcolors.com/product/aint-having-it/,Sinful Colors,Product Detail,Certifications Block,3,Cruelty-free | Vegan | Without 17 harmful ingredients
+https://www.sinfulcolors.com/product/bath-goals/,Sinful Colors,Product Detail,Product Image,1,Product Image (2 angles) | Alt Text
+https://www.sinfulcolors.com/product/bath-goals/,Sinful Colors,Product Detail,Product Info,2,Product Title | Description | Key Features | Directions | SKU | Category Tags
+https://www.sinfulcolors.com/product/bath-goals/,Sinful Colors,Product Detail,Certifications Block,3,Cruelty-free | Vegan | Without 17 harmful ingredients
+https://www.sinfulcolors.com/product/beach-vibes/,Sinful Colors,Product Detail,Product Image,1,Product Image (2 angles) | Alt Text
+https://www.sinfulcolors.com/product/beach-vibes/,Sinful Colors,Product Detail,Product Info,2,Product Title | Description | Key Features | Directions | SKU | Category Tags
+https://www.sinfulcolors.com/product/beach-vibes/,Sinful Colors,Product Detail,Certifications Block,3,Cruelty-free | Vegan | Without 17 harmful ingredients
+https://www.sinfulcolors.com/saweetie-vacay-vibes-giveaway-terms/,Sinful Colors,Legal/Policy,Text Content (default),1,Rich text (headings / paragraphs / lists)
+https://www.sinfulcolors.com/saweetiehotline/,Sinful Colors,Landing/Promo,Promo Hero,1,Background Image | Headline
+https://www.sinfulcolors.com/saweetiehotline/,Sinful Colors,Landing/Promo,Promo Content,2,Featured Image | Body Text | CTA Label | CTA Link
+https://www.sinfulcolors.com/sinful-colors-2,Sinful Colors,Landing/Promo,Promo Content,1,Headline | Body Text | CTA Label | CTA Link
+https://www.sinfulcolors.com/terms-of-use/,Sinful Colors,Legal/Policy,Text Content (default),1,Rich text (headings / paragraphs / lists)
