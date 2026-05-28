@@ -1,61 +1,37 @@
 Template,Block Name,Block Description,Custom Block Required
-Homepage,Hero,Full-width hero banner with background image/video and CTA overlay,Yes
-Homepage,Product Carousel,Horizontal scrollable carousel showcasing featured/best-selling products with image price and link,Yes
-Homepage,Category Tiles,Grid of visual tiles linking to product categories,Yes
-Homepage,CTA Banner,Promotional banner with headline text and call-to-action button,Yes
+Homepage,Hero,Full-width hero banner/carousel with background image and optional video,Yes
+Homepage,Product Line Cards,Grid or row of product line/collection cards linking to sub-brands,Yes
+Homepage,CTA Banner,Promotional banner with image and call-to-action link,Yes
 Homepage,Newsletter Signup,Email subscription form with incentive messaging,Yes
-Homepage,Video Embed,Embedded YouTube/video player for brand content,Yes
-Product Detail,Product Gallery,Image gallery with multiple product views and zoom capability,Yes
-Product Detail,Product Info,Product title price description and key selling points,Yes
-Product Detail,Shade Selector,Color/shade picker with swatches for product variants,Yes
-Product Detail,Add to Cart,Purchase controls including quantity selector and add-to-cart button,Yes
-Product Detail,Virtual Try-On,AR/virtual try-on integration for makeup products (Revlon),Yes
-Product Detail,Product Tabs,Tabbed content for Details Ingredients and How-To-Use sections,Yes
-Product Detail,Customer Reviews,Star ratings and customer review submission/display,Yes
-Product Detail,Related Products,Grid of recommended or similar products,Yes
-Product Detail,Where to Buy Button,CTA linking to retailer or store locator,No
-Product Collection,Category Hero,Banner image and description text for the collection,Yes
-Product Collection,Filter Sidebar,Faceted filter panel with checkboxes for attributes like shade finish and type,Yes
-Product Collection,Product Grid,Multi-column grid of product cards with image name price and badges,Yes
-Product Collection,Sort Controls,Dropdown for sorting by name price rating or popularity,No
-Product Collection,FAQ Accordion,Expandable FAQ section with common questions about the category,Yes
-Product Collection,Pagination,Page navigation controls for multi-page collections,No
-Product Line Landing,Line Hero,Hero banner introducing the product line/sub-brand,Yes
-Product Line Landing,Product Card Grid,Grid of product cards with image name benefit description and Learn More link,Yes
-Product Line Landing,Line Description,Text block describing the product line benefits and key ingredients,No
-Blog Listing,Blog Hero,Featured article or category banner at top of blog index,Yes
-Blog Listing,Article Card Grid,Multi-column grid of article cards with thumbnail headline and excerpt,Yes
-Blog Listing,Category Navigation,Navigation tabs or links to blog categories,No
-Blog Listing,Pagination,Numbered page navigation for browsing articles,No
-Blog Article,Article Hero,Featured image with article title and publication date,Yes
-Blog Article,Article Body,Rich text content with headings paragraphs images and embedded media,No
-Blog Article,Social Share,Social media sharing buttons (Facebook Twitter Pinterest),Yes
-Blog Article,Related Posts,You may also like section with related article cards,Yes
-Blog Article,Product Callout,Inline product recommendations within article content,Yes
-Legal/Policy,Text Content,Long-form text content with headings paragraphs and lists,No
-Legal/Policy,Privacy Form,Data subject access request form for privacy rights pages,Yes
-Contact,Contact Form,Form with fields for name email subject and message,Yes
-Contact,Contact Info,Address phone and email contact details,No
-About,Brand Story,Rich content section with images and brand narrative text,No
-About,Timeline/History,Brand history or milestones section,Yes
-About,Team/Values,Brand values or team showcase section,No
-Gallery,Image Gallery,Interactive image grid with lightbox click-to-expand functionality,Yes
-Gallery,Gallery Filter,Filter controls for browsing gallery by category or style,Yes
-Where to Buy,Retailer Grid,Grid of retailer logos/names with links to external stores,Yes
-Where to Buy,Store Locator,Interactive store finder with retailer dropdown and location search,Yes
-Landing/Promo,Campaign Hero,Full-width campaign hero with celebrity/product imagery and messaging,Yes
-Landing/Promo,Featured Products,Curated product grid with campaign-specific selections,Yes
-Landing/Promo,Pull Quote,Styled quote block with testimonial or campaign messaging,Yes
-Landing/Promo,Video Section,Embedded video with supporting text for campaign content,Yes
-Landing/Promo,Email Capture,Email signup form specific to campaign or giveaway,Yes
-Product Tag/Filter,Tag Header,Page title showing the active tag filter,No
-Product Tag/Filter,Product Grid,Grid of products matching the tag with image and title,Yes
-Retailer Detail,Retailer Hero,Retailer logo/name and partnership description,Yes
-Retailer Detail,Product Availability,List of available products at this retailer with links,Yes
-Monthly Specials,Specials Header,Month name and promotional heading,No
-Monthly Specials,Promo Content,Promotional content block with featured product and offer details,Yes
-Quiz/Interactive,Quiz Container,Interactive quiz framework with questions progress and results,Yes
-Quiz/Interactive,Product Results,Personalized product recommendations based on quiz answers,Yes
-FAQ,FAQ Hero,Page header with title and introductory text,No
-FAQ,FAQ Accordion,Expandable question-and-answer accordion sections,Yes
-FAQ,Contact CTA,Call-to-action directing users to contact page for further help,No
+Homepage,Video Embed,Embedded YouTube video player for brand content,Yes
+Product Detail,Product Image,Large product hero image,Yes
+Product Detail,Product Info,Product title with description and key benefits/features,Yes
+Product Detail,Product Tabs,Tabbed or sectioned content for Details / Ingredients / How to Use,Yes
+Product Detail,Customer Reviews,Star rating display and review submission form,Yes
+Product Detail,Store Finder CTA,Button linking to store locator or retailer page,No
+Product Collection,Category Header,Page title with optional description and breadcrumb navigation,No
+Product Collection,Product Grid,Grid of product cards with image and name linking to detail pages,Yes
+Product Line Landing,Line Hero,Hero banner introducing the product line with collection image,Yes
+Product Line Landing,Product Card Grid,Grid of product cards with image / name / subtitle / Learn More link,Yes
+Blog Listing,Blog Header,Section title or category heading for the article listing,No
+Blog Listing,Article Card Grid,Grid of article preview cards with thumbnail / title / excerpt / link,Yes
+Blog Article,Article Hero,Hero section with product line image and title,Yes
+Blog Article,Article Body,Carousel or sequential content blocks with product info and images,No
+Blog Article,Product Education Cards,Individual product info cards with image / benefits / usage / ingredients,Yes
+Legal/Policy,Text Content,Long-form text content with headings and paragraphs,No
+Legal/Policy,Privacy Form,Data subject access request form,Yes
+Contact,Contact Form,Form with name / email / subject / message fields,Yes
+About,Brand Story,Rich content with brand narrative / history / values / certifications,No
+About,Certifications Block,Cruelty-free and ingredient exclusion claims with list,Yes
+Gallery,Image Gallery,Interactive image grid with clickable thumbnails and lightbox,Yes
+Gallery,Gallery CTA,Call-to-action text prompting user interaction with gallery,No
+Where to Buy,Retailer Grid,Grid of retailer logos with purchase links organized by priority tier,Yes
+Where to Buy,Availability Note,Text noting additional distribution beyond listed retailers,No
+Retailer Detail,Retailer Info,Retailer name and logo with partnership context,Yes
+Retailer Detail,Product List,List of available products at this specific retailer,Yes
+Landing/Promo,Promo Hero,Full-width promotional hero image or campaign banner,Yes
+Landing/Promo,Promo Content,Rich text promotional content with optional product features,Yes
+Monthly Specials,Specials Header,Month title heading,No
+Monthly Specials,Promo Content,Promotional content with featured products and offer details,Yes
+Product Tag/Filter,Tag Header,Page heading showing active tag filter name,No
+Product Tag/Filter,Product Grid,Grid of products matching the tag with image and name,Yes
